@@ -1,0 +1,55 @@
+Definitely Not Passwords
+Copyright (c) 2026 Steven Klinck. All rights reserved.
+
+LICENCE TERMS
+
+By downloading, installing or using Definitely Not Passwords (the "Software") you agree to these terms.
+
+1. Use
+   You may install and use the Software free of charge, on any number of devices, for personal or
+   commercial purposes.
+
+2. Where to get it
+   The only authorised source of the Software is its official releases page:
+   https://github.com/stevenklinck/Definitely-Not-Passwords-Releases/releases
+   Copies obtained anywhere else are not authorised and may have been tampered with. Check every
+   download against the SHA256SUMS.txt published with its release.
+
+3. No redistribution
+   You may not redistribute, mirror, re-host, bundle, sell, rent, lend or sublicense the Software or its
+   installer, in whole or in part. You may share links to the official releases page.
+
+4. No modification
+   Except as section 6 allows, or as applicable law allows in a way that cannot be excluded by agreement,
+   you may not modify, decompile, disassemble or reverse engineer the Software.
+
+5. Your data
+   The Software keeps your vaults on your own devices, encrypted under master passwords that only you
+   know. There is no password recovery: if you forget a vault's master password, nobody (including the
+   author) can open that vault. You are responsible for remembering your master passwords and for keeping
+   backups of your vault files.
+
+6. Third-party components
+   The Software includes open-source components, listed with their licences in THIRD-PARTY-NOTICES.txt.
+   Each is used under its own licence, and nothing in these terms limits your rights under those
+   licences. In particular, the Qt and Qt for Python (PySide6, shiboken6) libraries are used under the
+   GNU Lesser General Public License version 3: you may replace them with modified versions, and reverse
+   engineer the Software to the extent needed to debug such modifications.
+
+7. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+   LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+8. Limitation of liability
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES
+   OR OTHER LIABILITY, INCLUDING LOSS OF DATA, LOSS OF ACCESS TO ACCOUNTS, OR ANY INDIRECT, INCIDENTAL OR
+   CONSEQUENTIAL LOSS, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE
+   SOFTWARE OR ITS USE OR INABILITY TO USE IT.
+
+9. Termination
+   These terms end automatically if you break them; you must then stop using the Software and delete
+   every copy. Sections 5, 7 and 8 continue to apply.
+
+10. Later versions
+   Later versions of the Software may come with different terms. The terms included with a version
+   apply to that version.
