@@ -19,6 +19,7 @@ Each release has:
 | `DefinitelyNotPasswords-<version>-win-x64-portable.zip` | The same app without installing; extract and run `DefinitelyNotPasswords.exe` |
 | `SHA256SUMS.txt` | Checksums for the files above |
 | `THIRD-PARTY-NOTICES.txt` | Licences of the open-source components included in the app |
+| `LICENSE.txt` | The terms for using the app (also in this repository) |
 
 ### Check your download
 
@@ -56,5 +57,17 @@ Uninstalling removes the program only. It never deletes vault files, backups or 
 
 ---
 
-Copyright © 2026 Steven Klinck. Third-party components are listed with their licences in
-`THIRD-PARTY-NOTICES.txt`.
+## Licence
+
+Definitely Not Passwords is free to use, for personal or commercial purposes, under the terms in
+[LICENSE.txt](LICENSE.txt). In short:
+
+- Download it only from this repository's
+  [Releases](https://github.com/stevenklinck/Definitely-Not-Passwords-Releases/releases) page. Please
+  don't re-host or redistribute it; share a link to this page instead.
+- It comes as is, with no warranty. Keep your master passwords safe and back up your vault files.
+- The open-source components inside it keep their own licences, listed in `THIRD-PARTY-NOTICES.txt`.
+
+---
+
+Copyright © 2026 Steven Klinck.
